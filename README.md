@@ -84,7 +84,7 @@
 <div align="center">
 
 <a href="https://github.com/AradhyaDixit18">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AradhyaDixit18&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AradhyaDixit18&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Aradhya Dixit"/>
 
 </a>
@@ -107,7 +107,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/aradhya-dixit-85a119227/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0Aradhyadixit-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Aradhyadixit-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -116,7 +116,7 @@
 
 <li>
 <a href="mailto:aradhyadixit1974@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail: 0AradhyaDixit-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail: AradhyaDixit-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
