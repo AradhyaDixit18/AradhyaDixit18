@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/AradhyaDixit18">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste+Everyone..&hearts;++;Self-taught+Full-Stack+Developer,;UI/UX+Designer,;Tech+Lead+@+TenderWisdom,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste+Everyone..&hearts;++;Self-taught+Full-Stack+Developer,;UI/UX+Designer,;Tech+Lead+@+TenderWisdom,;Blockchain+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
   </a>
 </p>
 
@@ -13,7 +13,8 @@
 - 💻 **Self-taught Full-Stack Developer** with a passion for building scalable and user-friendly applications.
 - 🎨 **UI/UX Designer** with a keen eye for aesthetics and user experience.
 - 🚀 **Tech Lead @ TenderWisdom** | **Full-stack Developer @ Admit Achievers** | **Ex-Frontend Developer @ WindowIT** | **UI/UX Designer @ IB Insights**.
-- 🌱 Currently learning **Advanced React** and **Backend Development**.
+- 🔗 **Exploring Blockchain Development** and **Go Language**.
+- 🌱 Currently learning **Advanced React**, **Backend Development**, and **Smart Contracts**.
 - 📄 Check out my [resume](https://pdf.ac/27fv29) and [portfolio](https://portfolio-jyu1.vercel.app/).
 - 📫 Reach me at **aradhyadixit1974@gmail.com**.
 
@@ -27,10 +28,11 @@
 
 - **Languages**:
   
-  ![C](https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![B+](https://img.shields.io/badge/B+-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 <br>
 
@@ -55,6 +57,15 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+
+<br>
+
+- **Blockchain Development**:
+
+  ![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+  ![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=hardhat&logoColor=black)
+  ![Truffle](https://img.shields.io/badge/Truffle-%23F7DF1E.svg?style=for-the-badge&logo=truffle&logoColor=black)
+  ![Web3.js](https://img.shields.io/badge/Web3.js-%23F7DF1E.svg?style=for-the-badge&logo=web3.js&logoColor=black)
 
 <br>
 
